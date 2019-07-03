@@ -643,7 +643,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 920354420}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 44d183c8a096401459fb05766a32318d, type: 3}
+  m_Script: {fileID: 11500000, guid: 00091b63763e19348b2e9992ec65c2e0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   StartEvent:
@@ -653,7 +653,18 @@ MonoBehaviour:
       Culture=neutral, PublicKeyToken=null
   TriggerEnterEvent:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 920354420}
+        m_MethodName: SetActive
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
     m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
       Culture=neutral, PublicKeyToken=null
 --- !u!65 &920354422
@@ -737,7 +748,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 920354420}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 92c7b1b6c5372be4ba253d08c97db6e6, type: 3}
+  m_Script: {fileID: 11500000, guid: 9240a799de58a1d459097fe38919afef, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   scoreText: {fileID: 1698591594}
@@ -751,11 +762,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 920354420}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 497b61ec4dc5f494e842178601206cfa, type: 3}
+  m_Script: {fileID: 11500000, guid: fa50821f8420c2e4aa03f5124d02f7b2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   scoreText: {fileID: 373273626}
-  score: {fileID: 11400000, guid: dc5569a2c3c749f4eb7722309e8fe211, type: 2}
+  score: {fileID: 11400000, guid: 8150fc4b3329e4a4aa5977298f8dfad7, type: 2}
 --- !u!1 &1173523405
 GameObject:
   m_ObjectHideFlags: 0
@@ -785,7 +796,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1173523405}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 44d183c8a096401459fb05766a32318d, type: 3}
+  m_Script: {fileID: 11500000, guid: 00091b63763e19348b2e9992ec65c2e0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   StartEvent:

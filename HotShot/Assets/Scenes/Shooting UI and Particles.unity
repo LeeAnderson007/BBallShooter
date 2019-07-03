@@ -5660,6 +5660,7 @@ GameObject:
   - component: {fileID: 1464728261}
   - component: {fileID: 1464728266}
   - component: {fileID: 1464728265}
+  - component: {fileID: 1464728267}
   m_Layer: 0
   m_Name: Net
   m_TagString: Untagged
@@ -5817,6 +5818,34 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   scoreText: {fileID: 579688897}
   score: 0
+--- !u!114 &1464728267
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1464728259}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c2792208ccf1547d28dc87d36185054f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  TriggerEnterEvent:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 1501850007}
+        m_MethodName: Emit
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 500
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
 --- !u!1 &1501850004
 GameObject:
   m_ObjectHideFlags: 0
@@ -5828,7 +5857,6 @@ GameObject:
   - component: {fileID: 1501850005}
   - component: {fileID: 1501850007}
   - component: {fileID: 1501850006}
-  - component: {fileID: 1501850008}
   m_Layer: 0
   m_Name: Particles
   m_TagString: Untagged
@@ -10581,18 +10609,6 @@ ParticleSystem:
         m_PostInfinity: 2
         m_RotationOrder: 4
     vectorLabel1_3: W
---- !u!114 &1501850008
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1501850004}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: aedc8aa53ce5c40d086d3bcd8c9011ad, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &1561791744 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1670825222895921545, guid: 4e22124548e94a246bdc8e41bcecc827,

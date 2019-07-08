@@ -8,6 +8,6 @@ public class SetScore : MonoBehaviour
     void OnTriggerEnter(Collider other)
     {
         score += 1;
-        scoreText.GetComponent<TMPro.TextMeshProUGUI>().text = "Score: " + score;
+        if (scoreText != null) scoreText.GetComponent<TMPro.TextMeshProUGUI>().text = "Score: " + score;
     }
 }

@@ -7,7 +7,10 @@ public class SetHighScore : MonoBehaviour
     public IntSO score;
     void OnTriggerEnter(Collider other)
     {
-        score.Value += 1;
-        scoreText.GetComponent<TMPro.TextMeshProUGUI>().text = "HighScore: " + score.Value;
+        if (score != null)
+        {
+            score.Value += 1;
+            if (scoreText != null) scoreText.GetComponent<TMPro.TextMeshProUGUI>().text = "HighScore: " + score.Value;
+        }
     }
 }

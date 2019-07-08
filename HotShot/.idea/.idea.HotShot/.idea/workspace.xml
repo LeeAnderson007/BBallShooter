@@ -102,14 +102,14 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/ApplyTorque.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="415">
-              <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+            <state relative-caret-position="307">
+              <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
               <folding>
-                <marker date="1562616426355" expanded="true" signature="6:118" ph="..." />
-                <marker date="1562616426355" expanded="true" signature="198:552" ph="{...}" />
-                <marker date="1562616426355" expanded="true" signature="347:399" ph="{...}" />
-                <marker date="1562616426355" expanded="true" signature="431:473" ph="{...}" />
-                <marker date="1562616426355" expanded="true" signature="505:550" ph="{...}" />
+                <marker date="1562616477350" expanded="true" signature="6:118" ph="..." />
+                <marker date="1562616477350" expanded="true" signature="198:559" ph="{...}" />
+                <marker date="1562616477350" expanded="true" signature="347:399" ph="{...}" />
+                <marker date="1562616477350" expanded="true" signature="438:480" ph="{...}" />
+                <marker date="1562616477350" expanded="true" signature="512:557" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -258,12 +258,12 @@
       <option name="presentableId" value="Default" />
       <updated>1562610608601</updated>
       <workItem from="1562610609946" duration="2973000" />
-      <workItem from="1562616143356" duration="270000" />
+      <workItem from="1562616143356" duration="526000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3243000" />
+    <option name="totallyTimeSpent" value="3499000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -408,14 +408,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/ApplyTorque.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="415">
-          <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+        <state relative-caret-position="307">
+          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
           <folding>
-            <marker date="1562616426355" expanded="true" signature="6:118" ph="..." />
-            <marker date="1562616426355" expanded="true" signature="198:552" ph="{...}" />
-            <marker date="1562616426355" expanded="true" signature="347:399" ph="{...}" />
-            <marker date="1562616426355" expanded="true" signature="431:473" ph="{...}" />
-            <marker date="1562616426355" expanded="true" signature="505:550" ph="{...}" />
+            <marker date="1562616477350" expanded="true" signature="6:118" ph="..." />
+            <marker date="1562616477350" expanded="true" signature="198:559" ph="{...}" />
+            <marker date="1562616477350" expanded="true" signature="347:399" ph="{...}" />
+            <marker date="1562616477350" expanded="true" signature="438:480" ph="{...}" />
+            <marker date="1562616477350" expanded="true" signature="512:557" ph="{...}" />
           </folding>
         </state>
       </provider>

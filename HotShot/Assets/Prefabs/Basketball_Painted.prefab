@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 4530318091230771588}
   - component: {fileID: 7918002310626542973}
   m_Layer: 0
-  m_Name: Basketball
+  m_Name: Basketball_Painted
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -39,7 +39,7 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8493422943895564705}
-  m_Mesh: {fileID: 1980917502627260308, guid: 0fa23b31358524e69a2ade3a437b953b, type: 3}
+  m_Mesh: {fileID: -3060982659002166036, guid: 06ebfdc39d0fb40d38e6f03722d32be7, type: 3}
 --- !u!23 &7918002310626542973
 MeshRenderer:
   m_ObjectHideFlags: 0

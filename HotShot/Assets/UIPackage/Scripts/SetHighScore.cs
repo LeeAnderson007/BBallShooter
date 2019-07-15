@@ -10,7 +10,7 @@ public class SetHighScore : MonoBehaviour
         if (score != null)
         {
             score.Value += 1;
-            if (scoreText != null) scoreText.GetComponent<TMPro.TextMeshProUGUI>().text = "HighScore: " + score.Value;
+            if (scoreText != null) scoreText.GetComponent<Text>().text = "HighScore: " + score.Value;
         }
     }
 }

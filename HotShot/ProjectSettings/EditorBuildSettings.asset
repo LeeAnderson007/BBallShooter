@@ -228,7 +228,7 @@ EditorBuildSettings:
     path: Assets/Scenes/Shooting UI and Particles.unity
     guid: 85a5c12d32780455e86ef32ba25e4b0d
   - enabled: 1
-    path: Assets/UIPackage/ShootingBasketsWithUI.unity
+    path: Assets/Scenes/ShootingBasketsWithUI.unity
     guid: 16457b6ab2fad41c3bf8475d422a5c70
   - enabled: 1
     path: Assets/Archanor/Sci-Fi Arsenal/InteractiveDemo/Demo Scenes/update_scifi_6.unity

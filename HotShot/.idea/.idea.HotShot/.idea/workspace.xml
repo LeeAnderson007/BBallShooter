@@ -2,44 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="000e43f4-9807-49f1-b14b-4f36ee59110d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/Archanor/Epic Toon FX/Prefabs/Environment/Firework/FireworkBlue.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Archanor/Epic Toon FX/Prefabs/Environment/Firework/FireworkBlue.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Archanor/Epic Toon FX/Prefabs/Environment/Firework/FireworkGreen.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Archanor/Epic Toon FX/Prefabs/Environment/Firework/FireworkGreen.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Archanor/Epic Toon FX/Prefabs/Environment/Firework/FireworkPurple.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Archanor/Epic Toon FX/Prefabs/Environment/Firework/FireworkPurple.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Archanor/Epic Toon FX/Prefabs/Environment/Firework/FireworkYellow.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Archanor/Epic Toon FX/Prefabs/Environment/Firework/FireworkYellow.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Archanor/Mystic Arsenal/Sci-Fi Arsenal/InteractiveDemo/Demo Prefabs/Fireballs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Archanor/Mystic Arsenal/Sci-Fi Arsenal/InteractiveDemo/Demo Scenes.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Archanor/Mystic Arsenal/Sci-Fi Arsenal/Sci-Fi Effects/Materials.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Archanor/Mystic Arsenal/Sci-Fi Arsenal/Sci-Fi Effects/Models.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Archanor/Mystic Arsenal/Sci-Fi Arsenal/Sci-Fi Effects/Prefabs/Combat/Aura.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Archanor/Mystic Arsenal/Sci-Fi Arsenal/Sci-Fi Effects/Prefabs/Combat/BeamUp.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Archanor/Mystic Arsenal/Sci-Fi Arsenal/Sci-Fi Effects/Prefabs/Combat/Beams/Setup/Laser.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Archanor/Mystic Arsenal/Sci-Fi Arsenal/Sci-Fi Effects/Prefabs/Combat/Beams/StaticBeam.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Archanor/Mystic Arsenal/Sci-Fi Arsenal/Sci-Fi Effects/Prefabs/Combat/Buff.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Archanor/Mystic Arsenal/Sci-Fi Arsenal/Sci-Fi Effects/Prefabs/Combat/Explosions/Fire.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Archanor/Mystic Arsenal/Sci-Fi Arsenal/Sci-Fi Effects/Prefabs/Combat/Explosions/Rockets.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Archanor/Mystic Arsenal/Sci-Fi Arsenal/Sci-Fi Effects/Prefabs/Combat/Explosions/Spheres.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Archanor/Mystic Arsenal/Sci-Fi Arsenal/Sci-Fi Effects/Prefabs/Combat/Flamethrower.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Archanor/Mystic Arsenal/Sci-Fi Arsenal/Sci-Fi Effects/Prefabs/Combat/Missiles/Bullet.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Archanor/Mystic Arsenal/Sci-Fi Arsenal/Sci-Fi Effects/Prefabs/Combat/Missiles/Fire.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Archanor/Mystic Arsenal/Sci-Fi Arsenal/Sci-Fi Effects/Prefabs/Combat/Missiles/Shockwave.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Archanor/Mystic Arsenal/Sci-Fi Arsenal/Sci-Fi Effects/Prefabs/Combat/Missiles/Spheres.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Archanor/Mystic Arsenal/Sci-Fi Arsenal/Sci-Fi Effects/Prefabs/Combat/MuzzleFlash.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Archanor/Mystic Arsenal/Sci-Fi Arsenal/Sci-Fi Effects/Prefabs/Combat/Shield.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Archanor/Mystic Arsenal/Sci-Fi Arsenal/Sci-Fi Effects/Prefabs/Environment.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Archanor/Mystic Arsenal/Sci-Fi Arsenal/Sci-Fi Effects/Prefabs/Interactive/JetFlame.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Archanor/Mystic Arsenal/Sci-Fi Arsenal/Sci-Fi Effects/Prefabs/Interactive/Loot.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Archanor/Mystic Arsenal/Sci-Fi Arsenal/Sci-Fi Effects/Prefabs/Interactive/Portal.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Archanor/Mystic Arsenal/Sci-Fi Arsenal/Sci-Fi Effects/Prefabs/Interactive/Zones.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Archanor/Mystic Arsenal/Sci-Fi Arsenal/Sci-Fi Effects/Sound.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Archanor/Mystic Arsenal/Sci-Fi Arsenal/Sci-Fi Effects/Textures.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Archanor/Mystic Arsenal/Sci-Fi Arsenal/Sci-Fi Textures.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ArtisanDream.Experimental/New.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/BackBoard.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/BackBoard.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Backboard_Painted.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Backboard_Painted.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Ball.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Ball.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Basketball_Painted.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Basketball_Painted.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UI/Scripts/SetHighScore.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI/Scripts/SetHighScore.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UI/Scripts/SetScore.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UI/Scripts/SetScore.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/DirectNum.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/DirectNum.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Director.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Director.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/New Director.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/New Director.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/North.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/North.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Worker.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Worker.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.HotShot/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HotShot/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.HotShot/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HotShot/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.HotShot/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HotShot/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ArtisanDream.Experimental/New/Physics.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TutorialInfo.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TutorialInfo/Icons.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TutorialInfo/Icons/Help_Icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TutorialInfo/Icons/Help_Icon.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TutorialInfo/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TutorialInfo/Scripts/Editor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TutorialInfo/Scripts/Readme.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TutorialInfo/Scripts/Readme.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UIPackage/ShootingBasketsWithUI.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UIPackage/ShootingBasketsWithUI.unity" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,35 +36,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/UI/Scripts/SetScore.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-              <folding>
-                <marker date="1562610819333" expanded="false" signature="6:40" ph="..." />
-                <marker date="1562610819333" expanded="true" signature="79:315" ph="{...}" />
-                <marker date="1562610819333" expanded="true" signature="176:313" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/UI/Scripts/SetHighScore.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
-              <folding>
-                <marker date="1562610848842" expanded="false" signature="6:40" ph="..." />
-                <marker date="1562610848842" expanded="true" signature="83:392" ph="{...}" />
-                <marker date="1562610848842" expanded="true" signature="182:390" ph="{...}" />
-                <marker date="1562610848842" expanded="true" signature="215:384" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/SimpleCoroutine.cs">
           <provider selected="true" editor-type-id="text-editor">
@@ -99,11 +57,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/ApplyTorque.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="307">
-              <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+            <state relative-caret-position="225">
+              <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
               <folding>
                 <marker date="1562616477350" expanded="true" signature="6:118" ph="..." />
                 <marker date="1562616477350" expanded="true" signature="198:559" ph="{...}" />
@@ -116,10 +74,72 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Director.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="32" column="22" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
+              <folding>
+                <marker date="1563212109297" expanded="true" signature="6:92" ph="..." />
+                <marker date="1563212109297" expanded="true" signature="152:959" ph="{...}" />
+                <marker date="1563212109297" expanded="true" signature="227:296" ph="{...}" />
+                <marker date="1563212109297" expanded="true" signature="354:856" ph="{...}" />
+                <marker date="1563212109297" expanded="true" signature="387:850" ph="{...}" />
+                <marker date="1563212109297" expanded="true" signature="888:957" ph="{...}" />
+                <marker date="1563212109297" expanded="true" signature="903:942" ph="/* Work ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/DirectNum.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+              <folding>
+                <marker date="1563212109297" expanded="true" signature="6:78" ph="..." />
+                <marker date="1563212109297" expanded="true" signature="118:749" ph="{...}" />
+                <marker date="1563212109297" expanded="true" signature="216:747" ph="{...}" />
+                <marker date="1563212109297" expanded="true" signature="331:374" ph="{...}" />
+                <marker date="1563212109297" expanded="true" signature="398:441" ph="{...}" />
+                <marker date="1563212109297" expanded="true" signature="473:741" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/UIPackage/Scripts/AddScore.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <marker date="1563212108430" expanded="true" signature="57:182" ph="{...}" />
+                <marker date="1563212108430" expanded="true" signature="130:175" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Worker.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+              <folding>
+                <marker date="1563212109297" expanded="true" signature="6:78" ph="..." />
+                <marker date="1563212109297" expanded="true" signature="136:209" ph="{...}" />
+                <marker date="1563212109297" expanded="true" signature="186:207" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/Pooling.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="40" column="7" lean-forward="true" selection-start-line="40" selection-start-column="7" selection-end-line="40" selection-end-column="7" />
+            <state relative-caret-position="-75">
+              <caret line="40" column="7" selection-start-line="40" selection-start-column="7" selection-end-line="40" selection-end-column="7" />
               <folding>
                 <marker date="1562616226731" expanded="true" signature="6:92" ph="..." />
                 <marker date="1562616226731" expanded="true" signature="130:1322" ph="{...}" />
@@ -159,12 +179,14 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Director.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ApplyTorque.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Pooling.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/UI/Scripts/SetHighScore.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/UIPackage/Scripts/AddScore.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/SimpleCoroutine.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Worker.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/WaitForSecondsObj.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/UI/Scripts/SetScore.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DirectNum.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -174,6 +196,9 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/AddTorque.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Pooling.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ApplyTorque.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Worker.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Director.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DirectNum.cs" />
       </list>
     </option>
   </component>
@@ -185,11 +210,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="129" />
-    <option name="y" value="47" />
-    <option name="width" value="1600" />
-    <option name="height" value="833" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="149" />
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="982" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -200,12 +225,12 @@
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
       <pane id="UnityExplorer">
         <option name="show-hidden-items" value="false" />
         <option name="show-project-names" value="true" />
       </pane>
-      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -259,11 +284,13 @@
       <updated>1562610608601</updated>
       <workItem from="1562610609946" duration="2973000" />
       <workItem from="1562616143356" duration="526000" />
+      <workItem from="1563210017141" duration="1277000" />
+      <workItem from="1563212288326" duration="862000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3499000" />
+    <option name="totallyTimeSpent" value="5638000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -275,10 +302,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="129" y="47" width="1600" height="833" extended-state="0" />
+    <frame x="0" y="23" width="1920" height="1007" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20833333" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -321,28 +348,18 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/AddTorque.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/UI/Scripts/SetScore.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
+        <state relative-caret-position="90">
           <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-          <folding>
-            <marker date="1562610819333" expanded="false" signature="6:40" ph="..." />
-            <marker date="1562610819333" expanded="true" signature="79:315" ph="{...}" />
-            <marker date="1562610819333" expanded="true" signature="176:313" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/UI/Scripts/SetHighScore.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
+        <state relative-caret-position="135">
           <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
-          <folding>
-            <marker date="1562610848842" expanded="false" signature="6:40" ph="..." />
-            <marker date="1562610848842" expanded="true" signature="83:392" ph="{...}" />
-            <marker date="1562610848842" expanded="true" signature="182:390" ph="{...}" />
-            <marker date="1562610848842" expanded="true" signature="215:384" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -365,29 +382,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/WaitForSecondsObj.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ApplyTorque.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+        <state relative-caret-position="225">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
           <folding>
-            <marker date="1558729147479" expanded="true" signature="136:292" ph="{...}" />
-            <marker date="1558729147479" expanded="true" signature="235:290" ph="{...}" />
-            <marker date="1558729147479" expanded="true" signature="320:372" ph="{...}" />
+            <marker date="1562616477350" expanded="true" signature="6:118" ph="..." />
+            <marker date="1562616477350" expanded="true" signature="198:559" ph="{...}" />
+            <marker date="1562616477350" expanded="true" signature="347:399" ph="{...}" />
+            <marker date="1562616477350" expanded="true" signature="438:480" ph="{...}" />
+            <marker date="1562616477350" expanded="true" signature="512:557" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/AddTorque.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Director.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+        <state relative-caret-position="390">
+          <caret line="32" column="22" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
+          <folding>
+            <marker date="1563212109297" expanded="true" signature="6:92" ph="..." />
+            <marker date="1563212109297" expanded="true" signature="152:959" ph="{...}" />
+            <marker date="1563212109297" expanded="true" signature="227:296" ph="{...}" />
+            <marker date="1563212109297" expanded="true" signature="354:856" ph="{...}" />
+            <marker date="1563212109297" expanded="true" signature="387:850" ph="{...}" />
+            <marker date="1563212109297" expanded="true" signature="888:957" ph="{...}" />
+            <marker date="1563212109297" expanded="true" signature="903:942" ph="/* Work ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Worker.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+          <folding>
+            <marker date="1563212109297" expanded="true" signature="6:78" ph="..." />
+            <marker date="1563212109297" expanded="true" signature="136:209" ph="{...}" />
+            <marker date="1563212109297" expanded="true" signature="186:207" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Pooling.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="40" column="7" lean-forward="true" selection-start-line="40" selection-start-column="7" selection-end-line="40" selection-end-column="7" />
+        <state relative-caret-position="-75">
+          <caret line="40" column="7" selection-start-line="40" selection-start-column="7" selection-end-line="40" selection-end-column="7" />
           <folding>
             <marker date="1562616226731" expanded="true" signature="6:92" ph="..." />
             <marker date="1562616226731" expanded="true" signature="130:1322" ph="{...}" />
@@ -406,16 +446,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ApplyTorque.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/WaitForSecondsObj.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        <state relative-caret-position="165">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
           <folding>
-            <marker date="1562616477350" expanded="true" signature="6:118" ph="..." />
-            <marker date="1562616477350" expanded="true" signature="198:559" ph="{...}" />
-            <marker date="1562616477350" expanded="true" signature="347:399" ph="{...}" />
-            <marker date="1562616477350" expanded="true" signature="438:480" ph="{...}" />
-            <marker date="1562616477350" expanded="true" signature="512:557" ph="{...}" />
+            <marker date="1558729147479" expanded="true" signature="136:292" ph="{...}" />
+            <marker date="1558729147479" expanded="true" signature="235:290" ph="{...}" />
+            <marker date="1558729147479" expanded="true" signature="320:372" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/DirectNum.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+          <folding>
+            <marker date="1563212109297" expanded="true" signature="6:78" ph="..." />
+            <marker date="1563212109297" expanded="true" signature="118:749" ph="{...}" />
+            <marker date="1563212109297" expanded="true" signature="216:747" ph="{...}" />
+            <marker date="1563212109297" expanded="true" signature="331:374" ph="{...}" />
+            <marker date="1563212109297" expanded="true" signature="398:441" ph="{...}" />
+            <marker date="1563212109297" expanded="true" signature="473:741" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/UIPackage/Scripts/AddScore.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <marker date="1563212108430" expanded="true" signature="57:182" ph="{...}" />
+            <marker date="1563212108430" expanded="true" signature="130:175" ph="{...}" />
           </folding>
         </state>
       </provider>

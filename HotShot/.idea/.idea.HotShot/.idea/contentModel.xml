@@ -140,10 +140,13 @@
         <e p="Scripts" t="Include">
           <e p="ApplyForce.cs" t="Include" />
           <e p="ApplyTorque.cs" t="Include" />
+          <e p="DirectNum.cs" t="Include" />
+          <e p="Director.cs" t="Include" />
           <e p="Pooling.cs" t="Include" />
           <e p="SimpleCoroutine.cs" t="Include" />
           <e p="Triggers.cs" t="Include" />
           <e p="WaitForSecondsObj.cs" t="Include" />
+          <e p="Worker.cs" t="Include" />
         </e>
         <e p="TextMesh Pro" t="Include">
           <e p="Resources" t="Include">
@@ -152,15 +155,7 @@
             </e>
           </e>
         </e>
-        <e p="TutorialInfo" t="Include">
-          <e p="Scripts" t="Include">
-            <e p="Editor" t="Include">
-              <e p="ReadmeEditor.cs" t="Include" />
-            </e>
-            <e p="Readme.cs" t="Include" />
-          </e>
-        </e>
-        <e p="UI" t="Include">
+        <e p="UIPackage" t="Include">
           <e p="Scripts" t="Include">
             <e p="AddScore.cs" t="Include" />
             <e p="MonoEvents.cs" t="Include" />
@@ -175,8 +170,6 @@
             <e p="SetHighScore.cs" t="Include" />
             <e p="SetScore.cs" t="Include" />
           </e>
-        </e>
-        <e p="UIPackage" t="Include">
           <e p="TextMesh Pro" t="Include">
             <e p="Fonts" t="Include">
               <e p="LiberationSans - OFL.txt" t="Include" />
@@ -203,6 +196,14 @@
             </e>
             <e p="Sprites" t="Include">
               <e p="EmojiOne Attribution.txt" t="Include" />
+            </e>
+          </e>
+          <e p="TutorialInfo" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="Editor" t="Include">
+                <e p="ReadmeEditor.cs" t="Include" />
+              </e>
+              <e p="Readme.cs" t="Include" />
             </e>
           </e>
         </e>

@@ -6,7 +6,7 @@ using UnityEngine.Events;
 [RequireComponent(typeof(Rigidbody))]
 public class ApplyForce : MonoBehaviour
 {
-
+    public UnityEvent OnEnd;
     public Transform StartPoint;
     private Rigidbody rigid;
     public Vector3 Forces;
@@ -47,5 +47,6 @@ public class ApplyForce : MonoBehaviour
         rigid.Sleep();
         cr = null;
         CanAddForce = true;
+        OnEnd.Invoke();
     }
 }

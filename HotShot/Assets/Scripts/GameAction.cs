@@ -10,6 +10,7 @@ public class GameAction : ScriptableObject
     
     public void OnRaise()
     {
+        Debug.Log(Raise);
         Raise?.Invoke();
     }
 }

@@ -10,6 +10,7 @@ public class ApplyForce : MonoBehaviour
     public UnityEvent OnEnd;
     public Transform StartPoint;
     private Rigidbody rigid;
+    public float force = .1f;
     public Vector3 Forces;
     public float HoldTime = 3;
     private Coroutine cr;
@@ -21,7 +22,8 @@ public class ApplyForce : MonoBehaviour
     public bool SwipingUp = false;
     public bool ballFollowFinger = false;
     public float StartShotTime;
-    public float ShotTime;
+    private float ShotTime;
+    public float swipeTimeMax = 1.5f;
     private void Start()
     {
         CanAddForce = true;
@@ -32,27 +34,30 @@ public class ApplyForce : MonoBehaviour
 
     private void OnMouseDown()
     {
-        StartSwipePosition = Input.mousePosition;
         rigid.WakeUp();
-        rigid.useGravity = true;
         ballFollowFinger = true;
-        StartShotTime = Time.time;
-        
+        StartSwipePosition = Input.mousePosition;
     }
     private void OnMouseUp()
     {
-        ShotTime = Time.time - StartShotTime;
-        Debug.Log("Shot Time: " + ShotTime);
+       
+      
+        
+       // StartShotTime = Time.time;
+        
+        //ShotTime = Time.time - StartShotTime;
+      
         ballFollowFinger = false;
         EndSwipePosition = Input.mousePosition;
         GetSwipeInfo();
         if (SwipingUp && CanAddForce)
         {
 
-            if (ShotTime < .6f)
-            {
-                rigid.AddForce(SwipeLengthX * 1.5f,SwipeLengthY * 1.5f ,SwipeLengthY);
-            }
+//            if (ShotTime < swipeTimeMax)
+//            {
+                transform.parent = null;
+                rigid.AddForce(SwipeLengthX * force,SwipeLengthY * force ,SwipeLengthY * force);
+           // }
             
             
             if (cr == null)
@@ -62,6 +67,7 @@ public class ApplyForce : MonoBehaviour
         }
         CanAddForce = false;
         SwipingUp = false;
+        rigid.useGravity = true;
     }
 
     public void Update()
@@ -99,11 +105,12 @@ public class ApplyForce : MonoBehaviour
     private IEnumerator Hold()    
     {
         yield return new WaitForSeconds(HoldTime);
+        rigid.Sleep();
         rigid.useGravity = false;
         var transformObj = transform;
+        transform.parent = StartPoint.transform;
         transformObj.rotation = Quaternion.identity;
         transformObj.position = StartPoint.position;
-        rigid.Sleep();
         cr = null;
         CanAddForce = true;
         OnEnd.Invoke();

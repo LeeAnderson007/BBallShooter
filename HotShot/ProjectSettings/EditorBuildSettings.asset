@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/ShootingBasketsWithUI.unity
-    guid: 80ce5e34b44f940ac88d1350a350ef49
+    path: Assets/Scenes/ShootingImageAR.unity
+    guid: b1c6f6740da994fbab9dda4c5f22ee7f
   m_configObjects: {}

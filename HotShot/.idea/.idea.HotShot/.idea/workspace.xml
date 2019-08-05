@@ -3,9 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="000e43f4-9807-49f1-b14b-4f36ee59110d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.HotShot/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HotShot/.idea/indexLayout.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.HotShot/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HotShot/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/BackBoard.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/BackBoard.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/ShootingBasketsAR.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/ShootingBasketsAR.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/ShootingBasketsWithUI.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/ShootingBasketsWithUI.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GameAction.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GameAction.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/Packages-Update.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/Packages-Update.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +35,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/ApplyForce.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="690">
+            <state relative-caret-position="630">
               <caret line="49" column="23" selection-start-line="49" selection-start-column="23" selection-end-line="49" selection-end-column="23" />
               <folding>
                 <marker date="1563571592755" expanded="false" signature="6:84" ph="..." />
@@ -49,7 +53,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/DisableOnCount.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
+            <state relative-caret-position="195">
               <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
               <folding>
                 <marker date="1563571722292" expanded="false" signature="6:78" ph="..." />
@@ -61,15 +65,44 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/GameAction.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
+            <state relative-caret-position="105">
               <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
               <folding>
                 <marker date="1563577172388" expanded="false" signature="6:104" ph="..." />
                 <marker date="1563577172388" expanded="true" signature="166:294" ph="{...}" />
                 <marker date="1563577172388" expanded="true" signature="229:292" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scenes/ImageTracking/TrackedImageInfoManager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="75" column="8" selection-start-line="75" selection-start-column="8" selection-end-line="75" selection-end-column="8" />
+              <folding>
+                <marker date="1565030879956" expanded="true" signature="6:158" ph="..." />
+                <marker date="1565030879956" expanded="true" signature="160:360" ph="/// This component listens for images detected by the &lt;c&gt;XRImageTrackingSubsystem&lt;/c&gt; ... " />
+                <marker date="1565030879956" expanded="true" signature="463:3878" ph="{...}" />
+                <marker date="1565030879956" expanded="true" signature="627:761" ph="/// The prefab has a world space UI canvas, ... " />
+                <marker date="1565030879956" expanded="true" signature="802:913" ph="{...}" />
+                <marker date="1565030879956" expanded="true" signature="1080:1218" ph="/// If an image is detected but no source texture can be found, ... " />
+                <marker date="1565030879956" expanded="true" signature="1254:1349" ph="{...}" />
+                <marker date="1565030879956" expanded="true" signature="1417:1500" ph="{...}" />
+                <marker date="1565030879956" expanded="true" signature="1521:1611" ph="{...}" />
+                <marker date="1565030879956" expanded="true" signature="1633:1723" ph="{...}" />
+                <marker date="1565030879956" expanded="true" signature="1799:3246" ph="{...}" />
+                <marker date="1565030879956" expanded="true" signature="1814:2444" ph="/* Set canvas camera ... */" />
+                <marker date="1565030879956" expanded="true" signature="2715:3169" ph="{...}" />
+                <marker date="1565030879956" expanded="true" signature="2776:3159" ph="/* The image extents is only valid when the image is being tracked ... */" />
+                <marker date="1565030879956" expanded="true" signature="3182:3240" ph="{...}" />
+                <marker date="1565030879956" expanded="true" signature="3322:3876" ph="{...}" />
+                <marker date="1565030879956" expanded="true" signature="3382:3775" ph="{...}" />
+                <marker date="1565030879956" expanded="true" signature="3393:3600" ph="/* Vector3 vect = Vector3.up; ... */" />
               </folding>
             </state>
           </provider>
@@ -82,6 +115,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameAction.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/ImageTracking/TrackedImageInfoManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ApplyTorque.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/SimpleCoroutine.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Worker.cs" root0="FORCE_HIGHLIGHTING" />
@@ -119,6 +153,7 @@
         <option value="$PROJECT_DIR$/Assets/DisableOnCount.cs" />
         <option value="$PROJECT_DIR$/Assets/AnimStates.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/GameAction.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/ImageTracking/TrackedImageInfoManager.cs" />
       </list>
     </option>
   </component>
@@ -131,9 +166,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="44" />
     <option name="y" value="23" />
-    <option name="width" value="1920" />
-    <option name="height" value="1006" />
+    <option name="width" value="1600" />
+    <option name="height" value="833" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -141,15 +177,15 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
       <pane id="UnityExplorer">
         <option name="show-hidden-items" value="false" />
         <option name="show-project-names" value="true" />
       </pane>
-      <pane id="FileSystemExplorer" />
-      <pane id="SolutionExplorer">
-        <option name="show-all-files" value="false" />
-      </pane>
       <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -210,11 +246,12 @@
       <workItem from="1563212288326" duration="862000" />
       <workItem from="1563396762882" duration="3276000" />
       <workItem from="1563568032531" duration="3598000" />
+      <workItem from="1565029463098" duration="2232000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12512000" />
+    <option name="totallyTimeSpent" value="14744000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -226,9 +263,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="981" extended-state="6" />
+    <frame x="0" y="23" width="1920" height="1006" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2720238" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.271875" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -422,48 +459,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/ChangeBehaviour.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/CountChange.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/GameAction.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="24" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/TextCounter.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/GameActionHandler.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/EndAnim.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ChangeBehaviour.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/CountChange.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/GameAction.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/TextCounter.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/GameActionHandler.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/EndAnim.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/DisableOnCount.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/AnimStates.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Triggers.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -477,7 +480,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/ApplyForce.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
+        <state relative-caret-position="630">
           <caret line="49" column="23" selection-start-line="49" selection-start-column="23" selection-end-line="49" selection-end-column="23" />
           <folding>
             <marker date="1563571592755" expanded="false" signature="6:84" ph="..." />
@@ -491,23 +494,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/DisableOnCount.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/AnimStates.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/DisableOnCount.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
+        <state relative-caret-position="195">
           <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
           <folding>
             <marker date="1563571722292" expanded="false" signature="6:78" ph="..." />
@@ -520,12 +509,39 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/GameAction.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
+        <state relative-caret-position="105">
           <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
           <folding>
             <marker date="1563577172388" expanded="false" signature="6:104" ph="..." />
             <marker date="1563577172388" expanded="true" signature="166:294" ph="{...}" />
             <marker date="1563577172388" expanded="true" signature="229:292" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/ImageTracking/TrackedImageInfoManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="75" column="8" selection-start-line="75" selection-start-column="8" selection-end-line="75" selection-end-column="8" />
+          <folding>
+            <marker date="1565030879956" expanded="true" signature="6:158" ph="..." />
+            <marker date="1565030879956" expanded="true" signature="160:360" ph="/// This component listens for images detected by the &lt;c&gt;XRImageTrackingSubsystem&lt;/c&gt; ... " />
+            <marker date="1565030879956" expanded="true" signature="463:3878" ph="{...}" />
+            <marker date="1565030879956" expanded="true" signature="627:761" ph="/// The prefab has a world space UI canvas, ... " />
+            <marker date="1565030879956" expanded="true" signature="802:913" ph="{...}" />
+            <marker date="1565030879956" expanded="true" signature="1080:1218" ph="/// If an image is detected but no source texture can be found, ... " />
+            <marker date="1565030879956" expanded="true" signature="1254:1349" ph="{...}" />
+            <marker date="1565030879956" expanded="true" signature="1417:1500" ph="{...}" />
+            <marker date="1565030879956" expanded="true" signature="1521:1611" ph="{...}" />
+            <marker date="1565030879956" expanded="true" signature="1633:1723" ph="{...}" />
+            <marker date="1565030879956" expanded="true" signature="1799:3246" ph="{...}" />
+            <marker date="1565030879956" expanded="true" signature="1814:2444" ph="/* Set canvas camera ... */" />
+            <marker date="1565030879956" expanded="true" signature="2715:3169" ph="{...}" />
+            <marker date="1565030879956" expanded="true" signature="2776:3159" ph="/* The image extents is only valid when the image is being tracked ... */" />
+            <marker date="1565030879956" expanded="true" signature="3182:3240" ph="{...}" />
+            <marker date="1565030879956" expanded="true" signature="3322:3876" ph="{...}" />
+            <marker date="1565030879956" expanded="true" signature="3382:3775" ph="{...}" />
+            <marker date="1565030879956" expanded="true" signature="3393:3600" ph="/* Vector3 vect = Vector3.up; ... */" />
           </folding>
         </state>
       </provider>

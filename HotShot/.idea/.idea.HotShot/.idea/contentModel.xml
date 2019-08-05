@@ -133,6 +133,7 @@
           <e p="LevelController.cs" t="Include" />
           <e p="Pooling.cs" t="Include" />
           <e p="SimpleCoroutine.cs" t="Include" />
+          <e p="SwipeInfoManager.cs" t="Include" />
           <e p="TextCounter.cs" t="Include" />
           <e p="Triggers.cs" t="Include" />
           <e p="WaitForSecondsObj.cs" t="Include" />
@@ -205,6 +206,6 @@
       <e p="Temp/bin" t="ExcludeRecursive" />
     </e>
     <e p="$USER_HOME$/Library/Caches/Rider2019.1/extResources" t="IncludeRecursive" />
-    <e p="$USER_HOME$/Library/Caches/Rider2019.1/resharper-host/local/Transient/ReSharperHost/v191/SolutionCaches/_HotShot.-497496800.00" t="ExcludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.1/resharper-host/local/Transient/ReSharperHost/v191/SolutionCaches/_HotShot.-1600655757.00" t="ExcludeRecursive" />
   </component>
 </project>

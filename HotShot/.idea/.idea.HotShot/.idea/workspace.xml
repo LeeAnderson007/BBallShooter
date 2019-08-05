@@ -2,53 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="000e43f4-9807-49f1-b14b-4f36ee59110d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.HotShot/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HotShot/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.HotShot/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HotShot/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.HotShot/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HotShot/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Archanor/Mystic Arsenal/Sci-Fi Arsenal/InteractiveDemo/Demo Prefabs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Archanor/Mystic Arsenal/Sci-Fi Arsenal/InteractiveDemo/Demo Prefabs/Fireballs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Archanor/Mystic Arsenal/Sci-Fi Arsenal/InteractiveDemo/Demo Scenes.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Archanor/Mystic Arsenal/Sci-Fi Arsenal/Sci-Fi Effects/Materials.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Archanor/Mystic Arsenal/Sci-Fi Arsenal/Sci-Fi Effects/Models.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Archanor/Mystic Arsenal/Sci-Fi Arsenal/Sci-Fi Effects/Prefabs/Combat/Aura.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Archanor/Mystic Arsenal/Sci-Fi Arsenal/Sci-Fi Effects/Prefabs/Combat/BeamUp.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Archanor/Mystic Arsenal/Sci-Fi Arsenal/Sci-Fi Effects/Prefabs/Combat/Beams/Setup.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Archanor/Mystic Arsenal/Sci-Fi Arsenal/Sci-Fi Effects/Prefabs/Combat/Beams/Setup/Laser.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Archanor/Mystic Arsenal/Sci-Fi Arsenal/Sci-Fi Effects/Prefabs/Combat/Beams/StaticBeam.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Archanor/Mystic Arsenal/Sci-Fi Arsenal/Sci-Fi Effects/Prefabs/Combat/Buff.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Archanor/Mystic Arsenal/Sci-Fi Arsenal/Sci-Fi Effects/Prefabs/Combat/Explosions.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Archanor/Mystic Arsenal/Sci-Fi Arsenal/Sci-Fi Effects/Prefabs/Combat/Explosions/Fire.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Archanor/Mystic Arsenal/Sci-Fi Arsenal/Sci-Fi Effects/Prefabs/Combat/Explosions/Rockets.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Archanor/Mystic Arsenal/Sci-Fi Arsenal/Sci-Fi Effects/Prefabs/Combat/Explosions/Spheres.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Archanor/Mystic Arsenal/Sci-Fi Arsenal/Sci-Fi Effects/Prefabs/Combat/Flamethrower.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Archanor/Mystic Arsenal/Sci-Fi Arsenal/Sci-Fi Effects/Prefabs/Combat/Missiles.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Archanor/Mystic Arsenal/Sci-Fi Arsenal/Sci-Fi Effects/Prefabs/Combat/Missiles/Bullet.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Archanor/Mystic Arsenal/Sci-Fi Arsenal/Sci-Fi Effects/Prefabs/Combat/Missiles/Fire.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Archanor/Mystic Arsenal/Sci-Fi Arsenal/Sci-Fi Effects/Prefabs/Combat/Missiles/Shockwave.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Archanor/Mystic Arsenal/Sci-Fi Arsenal/Sci-Fi Effects/Prefabs/Combat/Missiles/Spheres.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Archanor/Mystic Arsenal/Sci-Fi Arsenal/Sci-Fi Effects/Prefabs/Combat/MuzzleFlash.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Archanor/Mystic Arsenal/Sci-Fi Arsenal/Sci-Fi Effects/Prefabs/Combat/Shield.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Archanor/Mystic Arsenal/Sci-Fi Arsenal/Sci-Fi Effects/Prefabs/Environment.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Archanor/Mystic Arsenal/Sci-Fi Arsenal/Sci-Fi Effects/Prefabs/Interactive.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Archanor/Mystic Arsenal/Sci-Fi Arsenal/Sci-Fi Effects/Prefabs/Interactive/JetFlame.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Archanor/Mystic Arsenal/Sci-Fi Arsenal/Sci-Fi Effects/Prefabs/Interactive/Loot.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Archanor/Mystic Arsenal/Sci-Fi Arsenal/Sci-Fi Effects/Prefabs/Interactive/Portal.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Archanor/Mystic Arsenal/Sci-Fi Arsenal/Sci-Fi Effects/Prefabs/Interactive/Zones.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Archanor/Mystic Arsenal/Sci-Fi Arsenal/Sci-Fi Effects/Sound.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Archanor/Mystic Arsenal/Sci-Fi Arsenal/Sci-Fi Effects/Textures.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Archanor/Mystic Arsenal/Sci-Fi Arsenal/Sci-Fi Textures.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ArtisanDream.Experimental.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ArtisanDream.Experimental/New.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/Backboard_Mat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/Backboard_Mat.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/ShootingBasketsWithUI.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/ShootingBasketsWithUI.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ApplyForce.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ApplyForce.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ApplyTorque.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ApplyTorque.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UIAnimation/UIAnims.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UIAnimation/UIAnims.controller" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UIPackage/UIScripts.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UIPackage/UIScripts/Scripts.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -74,7 +29,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/ApplyForce.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
+            <state relative-caret-position="318">
               <caret line="39" column="8" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="8" />
               <folding>
                 <marker date="1565029264189" expanded="false" signature="6:84" ph="..." />
@@ -117,7 +72,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/DisableOnCount.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-135">
+            <state relative-caret-position="-150">
               <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
               <folding>
                 <marker date="1563746224402" expanded="false" signature="6:78" ph="..." />
@@ -311,12 +266,12 @@
       <workItem from="1563396762882" duration="3276000" />
       <workItem from="1563568032531" duration="3598000" />
       <workItem from="1564724797724" duration="23549000" />
-      <workItem from="1565020036265" duration="5319000" />
+      <workItem from="1565020036265" duration="5449000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41380000" />
+    <option name="totallyTimeSpent" value="41510000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -533,7 +488,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/DisableOnCount.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-135">
+        <state relative-caret-position="-150">
           <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
           <folding>
             <marker date="1563746224402" expanded="false" signature="6:78" ph="..." />
@@ -598,7 +553,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/ApplyForce.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
+        <state relative-caret-position="318">
           <caret line="39" column="8" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="8" />
           <folding>
             <marker date="1565029264189" expanded="false" signature="6:84" ph="..." />

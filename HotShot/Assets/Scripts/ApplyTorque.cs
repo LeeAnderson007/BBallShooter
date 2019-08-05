@@ -22,7 +22,7 @@ public class ApplyTorque : MonoBehaviour
         rb.AddTorque(forces);
     }
 
-    private void OnMouseDown()
+    private void OnMouseUp()
     {
        MouseDownEvent.Invoke(); 
     }

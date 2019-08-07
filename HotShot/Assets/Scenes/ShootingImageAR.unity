@@ -1020,19 +1020,6 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 1586781228}
   m_PrefabAsset: {fileID: 0}
---- !u!135 &1118214717
-SphereCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1118214716}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 1
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Radius: 1.36
-  m_Center: {x: 0, y: 0, z: 0}
 --- !u!4 &1118214724 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7849457506307481133, guid: c1eeccf809d1a45cda0ba4573fc1acf1,
@@ -1302,16 +1289,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ball
       objectReference: {fileID: 0}
-    - target: {fileID: 7849457506307481129, guid: c1eeccf809d1a45cda0ba4573fc1acf1,
-        type: 3}
-      propertyPath: m_Layer
-      value: 8
-      objectReference: {fileID: 0}
-    - target: {fileID: 7849457506307481129, guid: c1eeccf809d1a45cda0ba4573fc1acf1,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 7849457506307481133, guid: c1eeccf809d1a45cda0ba4573fc1acf1,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1367,64 +1344,12 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 7849457506307481133, guid: c1eeccf809d1a45cda0ba4573fc1acf1,
-        type: 3}
-      propertyPath: m_LocalScale.x
-      value: 0.05
-      objectReference: {fileID: 0}
-    - target: {fileID: 7849457506307481133, guid: c1eeccf809d1a45cda0ba4573fc1acf1,
-        type: 3}
-      propertyPath: m_LocalScale.y
-      value: 0.05
-      objectReference: {fileID: 0}
-    - target: {fileID: 7849457506307481133, guid: c1eeccf809d1a45cda0ba4573fc1acf1,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 0.05
-      objectReference: {fileID: 0}
     - target: {fileID: 7849457506307481122, guid: c1eeccf809d1a45cda0ba4573fc1acf1,
         type: 3}
       propertyPath: StartPoint
       value: 
       objectReference: {fileID: 165613553}
-    - target: {fileID: 7849457506307481122, guid: c1eeccf809d1a45cda0ba4573fc1acf1,
-        type: 3}
-      propertyPath: HoldTime
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 7849457506307481122, guid: c1eeccf809d1a45cda0ba4573fc1acf1,
-        type: 3}
-      propertyPath: swipeTimeMax
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 7849457506307481122, guid: c1eeccf809d1a45cda0ba4573fc1acf1,
-        type: 3}
-      propertyPath: force
-      value: 0.1
-      objectReference: {fileID: 0}
-    - target: {fileID: 7849457506307481122, guid: c1eeccf809d1a45cda0ba4573fc1acf1,
-        type: 3}
-      propertyPath: Forces.y
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 7849457506307481122, guid: c1eeccf809d1a45cda0ba4573fc1acf1,
-        type: 3}
-      propertyPath: Forces.z
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 7849457506307481134, guid: c1eeccf809d1a45cda0ba4573fc1acf1,
-        type: 3}
-      propertyPath: m_IsTrigger
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7849457506307481134, guid: c1eeccf809d1a45cda0ba4573fc1acf1,
-        type: 3}
-      propertyPath: m_Material
-      value: 
-      objectReference: {fileID: 13400000, guid: 3ddbcc824742e4e8bb8ac2521b600af8,
-        type: 2}
-    m_RemovedComponents:
-    - {fileID: 7849457506307481120, guid: c1eeccf809d1a45cda0ba4573fc1acf1, type: 3}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c1eeccf809d1a45cda0ba4573fc1acf1, type: 3}
 --- !u!1 &1655702459
 GameObject:

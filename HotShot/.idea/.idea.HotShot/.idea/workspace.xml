@@ -43,6 +43,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/ApplyForce.cs">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 <<<<<<< Updated upstream
             <state relative-caret-position="130">
@@ -91,6 +92,28 @@
                 <marker date="1565203582642" expanded="true" signature="2534:2585" ph="{...}" />
                 <marker date="1565203582642" expanded="true" signature="2871:3255" ph="{...}" />
 >>>>>>> develop
+=======
+            <state relative-caret-position="516">
+              <caret line="41" column="32" lean-forward="true" selection-start-line="41" selection-start-column="32" selection-end-line="41" selection-end-column="32" />
+              <folding>
+                <marker date="1565205693935" expanded="false" signature="6:84" ph="..." />
+                <marker date="1565205693935" expanded="true" signature="163:3262" ph="{...}" />
+                <marker date="1565205693935" expanded="true" signature="829:935" ph="{...}" />
+                <marker date="1565205693935" expanded="true" signature="968:1096" ph="{...}" />
+                <marker date="1565205693935" expanded="true" signature="1125:1972" ph="{...}" />
+                <marker date="1565205693935" expanded="true" signature="1163:1249" ph="/* StartShotTime = Time.time; ... */" />
+                <marker date="1565205693935" expanded="true" signature="1400:1877" ph="{...}" />
+                <marker date="1565205693935" expanded="true" signature="1412:1470" ph="/* if (ShotTime &lt; swipeTimeMax) ... */" />
+                <marker date="1565205693935" expanded="true" signature="1794:1867" ph="{...}" />
+                <marker date="1565205693935" expanded="true" signature="1998:2210" ph="{...}" />
+                <marker date="1565205693935" expanded="true" signature="2034:2195" ph="{...}" />
+                <marker date="1565205693935" expanded="true" signature="2243:2841" ph="{...}" />
+                <marker date="1565205693935" expanded="true" signature="2313:2361" ph="{...}" />
+                <marker date="1565205693935" expanded="true" signature="2374:2421" ph="{...}" />
+                <marker date="1565205693935" expanded="true" signature="2476:2526" ph="{...}" />
+                <marker date="1565205693935" expanded="true" signature="2539:2590" ph="{...}" />
+                <marker date="1565205693935" expanded="true" signature="2876:3260" ph="{...}" />
+>>>>>>> Stashed changes
               </folding>
             </state>
           </provider>
@@ -117,6 +140,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/ApplyTorque.cs">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 <<<<<<< Updated upstream
             <state relative-caret-position="45">
@@ -126,6 +150,9 @@
 =======
             <state relative-caret-position="-105">
 >>>>>>> develop
+=======
+            <state relative-caret-position="-135">
+>>>>>>> Stashed changes
               <caret line="29" selection-start-line="29" selection-end-line="29" />
               <folding>
                 <marker date="1565036209605" expanded="false" signature="6:118" ph="..." />
@@ -141,6 +168,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/DisableOnCount.cs">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 <<<<<<< Updated upstream
             <state relative-caret-position="45">
@@ -150,6 +178,9 @@
 =======
             <state relative-caret-position="-45">
 >>>>>>> develop
+=======
+            <state relative-caret-position="-60">
+>>>>>>> Stashed changes
               <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
               <folding>
                 <marker date="1563571722292" expanded="false" signature="6:78" ph="..." />
@@ -346,6 +377,7 @@
       <workItem from="1564724797724" duration="23549000" />
       <workItem from="1565020036265" duration="7037000" />
       <workItem from="1565104567525" duration="746000" />
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 <<<<<<< Updated upstream
       <workItem from="1565198595775" duration="1635000" />
@@ -355,10 +387,14 @@
 =======
       <workItem from="1565198595775" duration="3669000" />
 >>>>>>> develop
+=======
+      <workItem from="1565198595775" duration="4866000" />
+>>>>>>> Stashed changes
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 <<<<<<< Updated upstream
     <option name="totallyTimeSpent" value="45479000" />
@@ -368,6 +404,9 @@
 =======
     <option name="totallyTimeSpent" value="47513000" />
 >>>>>>> develop
+=======
+    <option name="totallyTimeSpent" value="48710000" />
+>>>>>>> Stashed changes
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -598,6 +637,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/ApplyTorque.cs">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 <<<<<<< Updated upstream
         <state relative-caret-position="45">
@@ -607,6 +647,9 @@
 =======
         <state relative-caret-position="-105">
 >>>>>>> develop
+=======
+        <state relative-caret-position="-135">
+>>>>>>> Stashed changes
           <caret line="29" selection-start-line="29" selection-end-line="29" />
           <folding>
             <marker date="1565036209605" expanded="false" signature="6:118" ph="..." />
@@ -620,6 +663,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/DisableOnCount.cs">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 <<<<<<< Updated upstream
         <state relative-caret-position="45">
@@ -629,6 +673,9 @@
 =======
         <state relative-caret-position="-45">
 >>>>>>> develop
+=======
+        <state relative-caret-position="-60">
+>>>>>>> Stashed changes
           <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
           <folding>
             <marker date="1563571722292" expanded="false" signature="6:78" ph="..." />
@@ -679,6 +726,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/SwipeInfoManager.cs">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 <<<<<<< Updated upstream
         <state relative-caret-position="130">
@@ -727,6 +775,28 @@
             <marker date="1565203582642" expanded="true" signature="2534:2585" ph="{...}" />
             <marker date="1565203582642" expanded="true" signature="2871:3255" ph="{...}" />
 >>>>>>> develop
+=======
+        <state relative-caret-position="516">
+          <caret line="41" column="32" lean-forward="true" selection-start-line="41" selection-start-column="32" selection-end-line="41" selection-end-column="32" />
+          <folding>
+            <marker date="1565205693935" expanded="false" signature="6:84" ph="..." />
+            <marker date="1565205693935" expanded="true" signature="163:3262" ph="{...}" />
+            <marker date="1565205693935" expanded="true" signature="829:935" ph="{...}" />
+            <marker date="1565205693935" expanded="true" signature="968:1096" ph="{...}" />
+            <marker date="1565205693935" expanded="true" signature="1125:1972" ph="{...}" />
+            <marker date="1565205693935" expanded="true" signature="1163:1249" ph="/* StartShotTime = Time.time; ... */" />
+            <marker date="1565205693935" expanded="true" signature="1400:1877" ph="{...}" />
+            <marker date="1565205693935" expanded="true" signature="1412:1470" ph="/* if (ShotTime &lt; swipeTimeMax) ... */" />
+            <marker date="1565205693935" expanded="true" signature="1794:1867" ph="{...}" />
+            <marker date="1565205693935" expanded="true" signature="1998:2210" ph="{...}" />
+            <marker date="1565205693935" expanded="true" signature="2034:2195" ph="{...}" />
+            <marker date="1565205693935" expanded="true" signature="2243:2841" ph="{...}" />
+            <marker date="1565205693935" expanded="true" signature="2313:2361" ph="{...}" />
+            <marker date="1565205693935" expanded="true" signature="2374:2421" ph="{...}" />
+            <marker date="1565205693935" expanded="true" signature="2476:2526" ph="{...}" />
+            <marker date="1565205693935" expanded="true" signature="2539:2590" ph="{...}" />
+            <marker date="1565205693935" expanded="true" signature="2876:3260" ph="{...}" />
+>>>>>>> Stashed changes
           </folding>
         </state>
       </provider>

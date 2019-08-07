@@ -57,7 +57,7 @@ public class ApplyForce : MonoBehaviour
 //            if (ShotTime < swipeTimeMax)
 //            {
                 transform.parent = null;
-                rigid.AddForce(SwipeLengthX * force,SwipeLengthY * force ,SwipeLengthY * force);
+                rigid.AddForce(SwipeLengthX * force / 2,SwipeLengthY * force ,SwipeLengthY * force * 1.3f);
            // }
             
             

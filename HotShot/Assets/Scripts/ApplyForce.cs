@@ -24,6 +24,8 @@ public class ApplyForce : MonoBehaviour
     public float StartShotTime;
     private float ShotTime;
     public float swipeTimeMax = 1.5f;
+    public float DistOfSwipe;
+    public int Direction;
     private void Start()
     {
         CanAddForce = true;
@@ -57,7 +59,8 @@ public class ApplyForce : MonoBehaviour
 //            if (ShotTime < swipeTimeMax)
 //            {
                 transform.parent = null;
-                rigid.AddForce(SwipeLengthX * force / 2,SwipeLengthY * force ,SwipeLengthY * force * 1.3f);
+                //rigid.AddForce(SwipeLengthX * force / 2,SwipeLengthY * force ,SwipeLengthY * force * 1.3f);
+                rigid.AddForce(SwipeLengthX * force,DistOfSwipe * force , DistOfSwipe * force * 1.3f);
            // }
             
             
@@ -82,14 +85,14 @@ public class ApplyForce : MonoBehaviour
 
     private void GetSwipeInfo()
     {
-        int direction;
+        
         if (EndSwipePosition.x < StartSwipePosition.x)
         {
-            direction = -1;
+            Direction = -1;
         }
         else
         {
-            direction = 1;
+            Direction = 1;
         }
 
         if(EndSwipePosition.y > StartSwipePosition.y)
@@ -100,7 +103,9 @@ public class ApplyForce : MonoBehaviour
         {
             SwipingUp = false;
         }
-        SwipeLengthX = Mathf.Abs(EndSwipePosition.x - StartSwipePosition.x) * direction;
+
+        DistOfSwipe = Vector3.Distance(StartSwipePosition, EndSwipePosition);
+        SwipeLengthX = Mathf.Abs(EndSwipePosition.x - StartSwipePosition.x) * Direction;
         SwipeLengthY = Mathf.Abs(EndSwipePosition.y - StartSwipePosition.y);
     }
     private IEnumerator Hold()    

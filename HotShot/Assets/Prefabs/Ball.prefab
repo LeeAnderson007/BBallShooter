@@ -14,15 +14,15 @@ GameObject:
   - component: {fileID: 7849457506307481134}
   - component: {fileID: 7849457506307481122}
   - component: {fileID: 7849457506307481123}
-  - component: {fileID: 7849457506307481120}
   - component: {fileID: 590611124}
-  m_Layer: 0
+  - component: {fileID: 1118214717}
+  m_Layer: 8
   m_Name: Ball
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &7849457506307481133
 Transform:
   m_ObjectHideFlags: 0
@@ -32,7 +32,7 @@ Transform:
   m_GameObject: {fileID: 7849457506307481129}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: -2.38, z: -7.09}
-  m_LocalScale: {x: 0.7, y: 0.7, z: 0.7}
+  m_LocalScale: {x: 0.05, y: 0.05, z: 0.05}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
@@ -70,6 +70,7 @@ MeshRenderer:
   m_ProbeAnchor: {fileID: 0}
   m_LightProbeVolumeOverride: {fileID: 0}
   m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
   m_PreserveUVs: 0
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
@@ -89,8 +90,8 @@ SphereCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7849457506307481129}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 1
+  m_Material: {fileID: 13400000, guid: 3ddbcc824742e4e8bb8ac2521b600af8, type: 2}
+  m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
   m_Radius: 0.5
@@ -107,9 +108,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0fee81b96532d4e5f8ccb07a3099bf84, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  SwipeInfo: {fileID: 0}
+  OnEnd:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
   StartPoint: {fileID: 0}
-  Forces: {x: 0, y: 400, z: 200}
+  force: 0.15
+  Forces: {x: 0, y: 1, z: 1}
   HoldTime: 3
+  SwipeLengthY: 0
+  SwipingUp: 0
+  ballFollowFinger: 0
+  StartShotTime: 0
+  swipeTimeMax: 3
 --- !u!54 &7849457506307481123
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -126,19 +139,6 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
---- !u!65 &7849457506307481120
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7849457506307481129}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 1
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 1, y: 1, z: 1}
-  m_Center: {x: 0, y: 0, z: 0}
 --- !u!114 &590611124
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -173,3 +173,16 @@ MonoBehaviour:
     m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
       Culture=neutral, PublicKeyToken=null
   forces: {x: -40, y: 40, z: 2}
+--- !u!135 &1118214717
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7849457506307481129}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Radius: 1.36
+  m_Center: {x: 0, y: 0, z: 0}

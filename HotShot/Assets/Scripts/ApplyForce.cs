@@ -75,7 +75,7 @@ public class ApplyForce : MonoBehaviour
     {
         if (ballFollowFinger)
         {
-            rigid.position = Camera.main.ScreenToWorldPoint(new Vector3(Input.mousePosition.x,Input.mousePosition.y, 2.384f));
+            rigid.position = Camera.main.ScreenToWorldPoint(new Vector3(Input.mousePosition.x,Input.mousePosition.y, transform.position.z));
         }
         
     }

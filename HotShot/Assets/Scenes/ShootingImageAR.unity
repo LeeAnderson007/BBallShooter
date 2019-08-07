@@ -1400,13 +1400,29 @@ PrefabInstance:
     - target: {fileID: 7849457506307481122, guid: c1eeccf809d1a45cda0ba4573fc1acf1,
         type: 3}
       propertyPath: force
-      value: 0.01
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7849457506307481122, guid: c1eeccf809d1a45cda0ba4573fc1acf1,
+        type: 3}
+      propertyPath: Forces.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7849457506307481122, guid: c1eeccf809d1a45cda0ba4573fc1acf1,
+        type: 3}
+      propertyPath: Forces.z
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7849457506307481134, guid: c1eeccf809d1a45cda0ba4573fc1acf1,
         type: 3}
       propertyPath: m_IsTrigger
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7849457506307481134, guid: c1eeccf809d1a45cda0ba4573fc1acf1,
+        type: 3}
+      propertyPath: m_Material
+      value: 
+      objectReference: {fileID: 13400000, guid: 3ddbcc824742e4e8bb8ac2521b600af8,
+        type: 2}
     m_RemovedComponents:
     - {fileID: 7849457506307481120, guid: c1eeccf809d1a45cda0ba4573fc1acf1, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: c1eeccf809d1a45cda0ba4573fc1acf1, type: 3}

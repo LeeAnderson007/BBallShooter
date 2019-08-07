@@ -60,7 +60,7 @@ public class ApplyForce : MonoBehaviour
 //            {
                 transform.parent = null;
                 //rigid.AddForce(SwipeLengthX * force / 2,SwipeLengthY * force ,SwipeLengthY * force * 1.3f);
-                rigid.AddForce(SwipeLengthX * force,DistOfSwipe * force , DistOfSwipe * force * 1.3f);
+                rigid.AddForce(0,DistOfSwipe * force , DistOfSwipe * force * 1.3f);
            // }
             
             
@@ -104,7 +104,7 @@ public class ApplyForce : MonoBehaviour
             SwipingUp = false;
         }
 
-        DistOfSwipe = Vector3.Distance(StartSwipePosition, EndSwipePosition);
+        DistOfSwipe = Vector3.Distance(StartSwipePosition.normalized, EndSwipePosition.normalized);
         SwipeLengthX = Mathf.Abs(EndSwipePosition.x - StartSwipePosition.x) * Direction;
         SwipeLengthY = Mathf.Abs(EndSwipePosition.y - StartSwipePosition.y);
     }

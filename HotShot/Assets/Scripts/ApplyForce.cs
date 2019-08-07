@@ -15,6 +15,9 @@ public class ApplyForce : MonoBehaviour
     private bool CanAddForce;
     private Vector3 StartSwipePosition;
     private Vector3 EndSwipePosition;
+    private Vector3 tempV;
+    private Vector3 newV;
+    public float spacePoint = .35f;
     public bool SwipingUp;
     public bool ballFollowFinger;
     public float DistOfSwipe;
@@ -27,33 +30,38 @@ public class ApplyForce : MonoBehaviour
     }
     private void OnMouseDown()
     {
+        var transform1 = transform;
+        transform1.localPosition = Vector3.zero;
+        transform1.localRotation = Quaternion.identity;
         StartSwipePosition = Input.mousePosition;
-        rigid.WakeUp();
+       
         ballFollowFinger = true;
     }
     private void OnMouseUp()
     {
+        rigid.WakeUp();
         ballFollowFinger = false;
         EndSwipePosition = Input.mousePosition;
         GetSwipeInfo();
         if (SwipingUp && CanAddForce)
         {
+            tempV = StartPoint.position;
+            rigid.AddRelativeForce(Vector3.forward*(DistOfSwipe*force));
+            rigid.AddRelativeForce(Vector3.up*(DistOfSwipe*force));
             transform.parent = null;
-            rigid.AddForce(0,DistOfSwipe * force , DistOfSwipe * force * 1.3f);
-            if (cr == null)
-            {
-                cr = StartCoroutine(Hold());
-            }
+           
         }
         CanAddForce = false;
         SwipingUp = false;
         rigid.useGravity = true;
+        RunEndForces();
     }
-    public void Update()
+    public void FixedUpdate()
     {
         if (ballFollowFinger)
         {
-            rigid.position = Camera.main.ScreenToWorldPoint(new Vector3(Input.mousePosition.x,Input.mousePosition.y, transform.position.z));
+            tempV.Set(Input.mousePosition.x, Input.mousePosition.y, spacePoint);
+            transform.position = Camera.main.ScreenToWorldPoint(tempV);
         }
     }
     private void GetSwipeInfo()
@@ -74,11 +82,19 @@ public class ApplyForce : MonoBehaviour
         rigid.Sleep();
         rigid.useGravity = false;
         var transformObj = transform;
-        transform.parent = StartPoint.transform;
-        transformObj.rotation = Quaternion.identity;
+        transformObj.parent = StartPoint.transform;
         transformObj.position = StartPoint.position;
         cr = null;
         CanAddForce = true;
+        transformObj.localRotation = Quaternion.identity;
         OnEnd.Invoke();
+    }
+
+    public void RunEndForces()
+    {
+        if (cr == null)
+        {
+            cr = StartCoroutine(Hold());
+        }
     }
 }

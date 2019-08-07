@@ -9,7 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5955057883415187679}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: HoopWithFX
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25,7 +25,7 @@ Transform:
   m_GameObject: {fileID: 3292826071179699454}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.1, y: 0.1, z: 0.1}
+  m_LocalScale: {x: 0.11, y: 0.11, z: 0.11}
   m_Children:
   - {fileID: 2598620216993801951}
   m_Father: {fileID: 0}
@@ -40,7 +40,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2598620216993801951}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: HoopRotation
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -73,7 +73,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3847408713474238303}
   - component: {fileID: 3847408713474238288}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: FXPool
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -133,6 +133,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: BackBoard
       objectReference: {fileID: 0}
+    - target: {fileID: 542199997044510951, guid: aab6db75fb13b41fb9bd9f76eba9e950,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     - target: {fileID: 542199997044510947, guid: aab6db75fb13b41fb9bd9f76eba9e950,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -188,6 +193,51 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 542199996615163066, guid: aab6db75fb13b41fb9bd9f76eba9e950,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -18.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 542199996615163066, guid: aab6db75fb13b41fb9bd9f76eba9e950,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -11.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 542199996615163065, guid: aab6db75fb13b41fb9bd9f76eba9e950,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 542199996575884839, guid: aab6db75fb13b41fb9bd9f76eba9e950,
+        type: 3}
+      propertyPath: m_Layer
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 542199996615163012, guid: aab6db75fb13b41fb9bd9f76eba9e950,
+        type: 3}
+      propertyPath: m_Size.x
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 542199996615163012, guid: aab6db75fb13b41fb9bd9f76eba9e950,
+        type: 3}
+      propertyPath: m_Size.y
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 542199996615163067, guid: aab6db75fb13b41fb9bd9f76eba9e950,
+        type: 3}
+      propertyPath: m_Size.x
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 542199996615163067, guid: aab6db75fb13b41fb9bd9f76eba9e950,
+        type: 3}
+      propertyPath: m_Size.z
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 542199996615163067, guid: aab6db75fb13b41fb9bd9f76eba9e950,
+        type: 3}
+      propertyPath: m_Center.z
+      value: 45
+      objectReference: {fileID: 0}
     - target: {fileID: 542199996575884833, guid: aab6db75fb13b41fb9bd9f76eba9e950,
         type: 3}
       propertyPath: TriggerEnterEvent.m_PersistentCalls.m_Calls.Array.data[0].m_Target
@@ -224,6 +274,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 3847408713474238303}
     m_Modifications:
+    - target: {fileID: 183926, guid: 96d8221c1bb8b404fb8cd7080f372017, type: 3}
+      propertyPath: m_Name
+      value: MagicPillarBlastYellow
+      objectReference: {fileID: 0}
+    - target: {fileID: 183926, guid: 96d8221c1bb8b404fb8cd7080f372017, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     - target: {fileID: 451764, guid: 96d8221c1bb8b404fb8cd7080f372017, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -268,9 +326,21 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 183926, guid: 96d8221c1bb8b404fb8cd7080f372017, type: 3}
-      propertyPath: m_Name
-      value: MagicPillarBlastYellow
+    - target: {fileID: 115696, guid: 96d8221c1bb8b404fb8cd7080f372017, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 109544, guid: 96d8221c1bb8b404fb8cd7080f372017, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 183820, guid: 96d8221c1bb8b404fb8cd7080f372017, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 131366, guid: 96d8221c1bb8b404fb8cd7080f372017, type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 96d8221c1bb8b404fb8cd7080f372017, type: 3}
@@ -296,6 +366,10 @@ PrefabInstance:
     - target: {fileID: 144688, guid: 61a38e1f514545f47916177ba28811ee, type: 3}
       propertyPath: m_Name
       value: FireworkPurple
+      objectReference: {fileID: 0}
+    - target: {fileID: 144688, guid: 61a38e1f514545f47916177ba28811ee, type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 434210, guid: 61a38e1f514545f47916177ba28811ee, type: 3}
       propertyPath: m_LocalPosition.x
@@ -349,6 +423,10 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1.600001
       objectReference: {fileID: 0}
+    - target: {fileID: 189864, guid: 61a38e1f514545f47916177ba28811ee, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 61a38e1f514545f47916177ba28811ee, type: 3}
 --- !u!1 &3847408713814221347 stripped
@@ -373,6 +451,10 @@ PrefabInstance:
     - target: {fileID: 114134, guid: 5552d0e6b5e91684c9b9b938763192bf, type: 3}
       propertyPath: m_Name
       value: FireworkGreen
+      objectReference: {fileID: 0}
+    - target: {fileID: 114134, guid: 5552d0e6b5e91684c9b9b938763192bf, type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 428432, guid: 5552d0e6b5e91684c9b9b938763192bf, type: 3}
       propertyPath: m_LocalPosition.x
@@ -426,6 +508,10 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1.600001
       objectReference: {fileID: 0}
+    - target: {fileID: 193282, guid: 5552d0e6b5e91684c9b9b938763192bf, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5552d0e6b5e91684c9b9b938763192bf, type: 3}
 --- !u!1 &3847408713957683438 stripped
@@ -450,6 +536,10 @@ PrefabInstance:
     - target: {fileID: 114476, guid: 225085907981d1a4f9901b6ced5b2657, type: 3}
       propertyPath: m_Name
       value: FireworkYellow
+      objectReference: {fileID: 0}
+    - target: {fileID: 114476, guid: 225085907981d1a4f9901b6ced5b2657, type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 440448, guid: 225085907981d1a4f9901b6ced5b2657, type: 3}
       propertyPath: m_LocalPosition.x
@@ -503,6 +593,10 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1.600001
       objectReference: {fileID: 0}
+    - target: {fileID: 126248, guid: 225085907981d1a4f9901b6ced5b2657, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 225085907981d1a4f9901b6ced5b2657, type: 3}
 --- !u!1 &3847408714338714221 stripped
@@ -527,6 +621,10 @@ PrefabInstance:
     - target: {fileID: 107778, guid: e6b0c8eedb7b4b148b2d830fdcf06603, type: 3}
       propertyPath: m_Name
       value: FireworkBlue
+      objectReference: {fileID: 0}
+    - target: {fileID: 107778, guid: e6b0c8eedb7b4b148b2d830fdcf06603, type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 490804, guid: e6b0c8eedb7b4b148b2d830fdcf06603, type: 3}
       propertyPath: m_LocalPosition.x
@@ -580,6 +678,10 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1.600001
       objectReference: {fileID: 0}
+    - target: {fileID: 122216, guid: e6b0c8eedb7b4b148b2d830fdcf06603, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e6b0c8eedb7b4b148b2d830fdcf06603, type: 3}
 --- !u!1 &3847408714433197065 stripped
@@ -604,6 +706,10 @@ PrefabInstance:
     - target: {fileID: 185518, guid: 2ef436b6c6313494daf190cd68ebf636, type: 3}
       propertyPath: m_Name
       value: MagicNovaBlue
+      objectReference: {fileID: 0}
+    - target: {fileID: 185518, guid: 2ef436b6c6313494daf190cd68ebf636, type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 435182, guid: 2ef436b6c6313494daf190cd68ebf636, type: 3}
       propertyPath: m_LocalPosition.x
@@ -656,6 +762,14 @@ PrefabInstance:
     - target: {fileID: 435182, guid: 2ef436b6c6313494daf190cd68ebf636, type: 3}
       propertyPath: m_LocalScale.z
       value: 2.436401
+      objectReference: {fileID: 0}
+    - target: {fileID: 182318, guid: 2ef436b6c6313494daf190cd68ebf636, type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 107710, guid: 2ef436b6c6313494daf190cd68ebf636, type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2ef436b6c6313494daf190cd68ebf636, type: 3}

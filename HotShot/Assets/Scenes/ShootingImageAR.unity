@@ -132,6 +132,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: HoopWithFX
       objectReference: {fileID: 0}
+    - target: {fileID: 3292826071179699454, guid: e8c0596fba89949559facbf6e44d440d,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5955057883415187679, guid: e8c0596fba89949559facbf6e44d440d,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1248,7 +1253,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_WorldSpaceCanvasCamera: {fileID: 1655702460}
   m_DefaultTexture: {fileID: 2800000, guid: 5a804a4ff1f7e4038b1f1e6f4ad8a02b, type: 3}
-  scale: {x: 0.05, y: 0.05, z: 0.05}
+  scale: {x: 0.06, y: 0.06, z: 0.06}
 --- !u!114 &1562973079
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1352,17 +1357,17 @@ PrefabInstance:
     - target: {fileID: 7849457506307481133, guid: c1eeccf809d1a45cda0ba4573fc1acf1,
         type: 3}
       propertyPath: m_LocalScale.x
-      value: 0.06
+      value: 0.05
       objectReference: {fileID: 0}
     - target: {fileID: 7849457506307481133, guid: c1eeccf809d1a45cda0ba4573fc1acf1,
         type: 3}
       propertyPath: m_LocalScale.y
-      value: 0.06
+      value: 0.05
       objectReference: {fileID: 0}
     - target: {fileID: 7849457506307481133, guid: c1eeccf809d1a45cda0ba4573fc1acf1,
         type: 3}
       propertyPath: m_LocalScale.z
-      value: 0.06
+      value: 0.05
       objectReference: {fileID: 0}
     - target: {fileID: 7849457506307481122, guid: c1eeccf809d1a45cda0ba4573fc1acf1,
         type: 3}

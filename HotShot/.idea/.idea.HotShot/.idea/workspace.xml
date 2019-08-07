@@ -2,19 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="000e43f4-9807-49f1-b14b-4f36ee59110d" name="Default Changelist" comment="">
-<<<<<<< HEAD
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.HotShot/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HotShot/.idea/indexLayout.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/BackBoard.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/BackBoard.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/ShootingBasketsAR.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/ShootingBasketsAR.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/ShootingBasketsWithUI.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/ShootingBasketsWithUI.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/Packages-Update.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/Packages-Update.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
-=======
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.HotShot/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HotShot/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.HotShot/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HotShot/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/ShootingBasketsWithUI.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/ShootingBasketsWithUI.unity" afterDir="false" />
->>>>>>> develop
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ApplyForce.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ApplyForce.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures.meta" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,29 +33,54 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/ApplyForce.cs">
           <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-            <state relative-caret-position="630">
-              <caret line="49" column="23" selection-start-line="49" selection-start-column="23" selection-end-line="49" selection-end-column="23" />
-=======
-            <state relative-caret-position="318">
-              <caret line="39" column="8" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="8" />
+            <state relative-caret-position="330">
+              <caret line="25" column="37" lean-forward="true" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
               <folding>
-                <marker date="1565029264189" expanded="false" signature="6:84" ph="..." />
-                <marker date="1565029264189" expanded="true" signature="163:2845" ph="{...}" />
-                <marker date="1565029264189" expanded="true" signature="705:811" ph="{...}" />
-                <marker date="1565029264189" expanded="true" signature="844:1040" ph="{...}" />
-                <marker date="1565029264189" expanded="true" signature="1069:1667" ph="{...}" />
-                <marker date="1565029264189" expanded="true" signature="1310:1605" ph="{...}" />
-                <marker date="1565029264189" expanded="true" signature="1353:1468" ph="{...}" />
-                <marker date="1565029264189" expanded="true" signature="1522:1595" ph="{...}" />
-                <marker date="1565029264189" expanded="true" signature="1693:1907" ph="{...}" />
-                <marker date="1565029264189" expanded="true" signature="1729:1892" ph="{...}" />
-                <marker date="1565029264189" expanded="true" signature="1940:2473" ph="{...}" />
-                <marker date="1565029264189" expanded="true" signature="2024:2072" ph="{...}" />
-                <marker date="1565029264189" expanded="true" signature="2085:2132" ph="{...}" />
-                <marker date="1565029264189" expanded="true" signature="2187:2237" ph="{...}" />
-                <marker date="1565029264189" expanded="true" signature="2250:2301" ph="{...}" />
-                <marker date="1565029264189" expanded="true" signature="2508:2843" ph="{...}" />
+                <marker date="1565105034224" expanded="false" signature="6:84" ph="..." />
+                <marker date="1565105034224" expanded="true" signature="163:3006" ph="{...}" />
+                <marker date="1565105034224" expanded="true" signature="768:874" ph="{...}" />
+                <marker date="1565105034224" expanded="true" signature="907:1035" ph="{...}" />
+                <marker date="1565105034224" expanded="true" signature="1064:1795" ph="{...}" />
+                <marker date="1565105034224" expanded="true" signature="1102:1188" ph="/* StartShotTime = Time.time; ... */" />
+                <marker date="1565105034224" expanded="true" signature="1339:1700" ph="{...}" />
+                <marker date="1565105034224" expanded="true" signature="1351:1409" ph="/* if (ShotTime &lt; swipeTimeMax) ... */" />
+                <marker date="1565105034224" expanded="true" signature="1617:1690" ph="{...}" />
+                <marker date="1565105034224" expanded="true" signature="1821:2019" ph="{...}" />
+                <marker date="1565105034224" expanded="true" signature="1857:2004" ph="{...}" />
+                <marker date="1565105034224" expanded="true" signature="2052:2585" ph="{...}" />
+                <marker date="1565105034224" expanded="true" signature="2136:2184" ph="{...}" />
+                <marker date="1565105034224" expanded="true" signature="2197:2244" ph="{...}" />
+                <marker date="1565105034224" expanded="true" signature="2299:2349" ph="{...}" />
+                <marker date="1565105034224" expanded="true" signature="2362:2413" ph="{...}" />
+                <marker date="1565105034224" expanded="true" signature="2620:3004" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ide.vscode@1.0.7/Editor/VSCodeDiscovery.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@1.0.8/Rider/Editor/RiderInitializer.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="40" column="12" selection-start-line="40" selection-start-column="12" selection-end-line="40" selection-end-column="12" />
+              <folding>
+                <marker date="1558544480000" expanded="true" signature="126:1665" ph="{...}" />
+                <marker date="1558544480000" expanded="true" signature="164:1663" ph="{...}" />
+                <marker date="1558544480000" expanded="true" signature="218:1657" ph="{...}" />
+                <marker date="1558544480000" expanded="true" signature="292:489" ph="{...}" />
+                <marker date="1558544480000" expanded="true" signature="899:1516" ph="{...}" />
+                <marker date="1558544480000" expanded="true" signature="1127:1239" ph="{...}" />
+                <marker date="1558544480000" expanded="true" signature="1254:1458" ph="{...}" />
+                <marker date="1558544480000" expanded="true" signature="1529:1649" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -71,9 +89,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/ApplyTorque.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
->>>>>>> develop
+            <state relative-caret-position="225">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
               <folding>
                 <marker date="1565028250724" expanded="false" signature="6:118" ph="..." />
                 <marker date="1565028250724" expanded="true" signature="198:557" ph="{...}" />
@@ -88,11 +105,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/DisableOnCount.cs">
           <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-            <state relative-caret-position="195">
-=======
-            <state relative-caret-position="-150">
->>>>>>> develop
+            <state relative-caret-position="135">
               <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
               <folding>
                 <marker date="1563746224402" expanded="false" signature="6:78" ph="..." />
@@ -107,11 +120,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/GameAction.cs">
           <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-            <state relative-caret-position="105">
-=======
             <state relative-caret-position="75">
->>>>>>> develop
               <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
               <folding>
                 <marker date="1564718451210" expanded="false" signature="6:104" ph="..." />
@@ -150,35 +159,6 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/Scenes/ImageTracking/TrackedImageInfoManager.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="75" column="8" selection-start-line="75" selection-start-column="8" selection-end-line="75" selection-end-column="8" />
-              <folding>
-                <marker date="1565030879956" expanded="true" signature="6:158" ph="..." />
-                <marker date="1565030879956" expanded="true" signature="160:360" ph="/// This component listens for images detected by the &lt;c&gt;XRImageTrackingSubsystem&lt;/c&gt; ... " />
-                <marker date="1565030879956" expanded="true" signature="463:3878" ph="{...}" />
-                <marker date="1565030879956" expanded="true" signature="627:761" ph="/// The prefab has a world space UI canvas, ... " />
-                <marker date="1565030879956" expanded="true" signature="802:913" ph="{...}" />
-                <marker date="1565030879956" expanded="true" signature="1080:1218" ph="/// If an image is detected but no source texture can be found, ... " />
-                <marker date="1565030879956" expanded="true" signature="1254:1349" ph="{...}" />
-                <marker date="1565030879956" expanded="true" signature="1417:1500" ph="{...}" />
-                <marker date="1565030879956" expanded="true" signature="1521:1611" ph="{...}" />
-                <marker date="1565030879956" expanded="true" signature="1633:1723" ph="{...}" />
-                <marker date="1565030879956" expanded="true" signature="1799:3246" ph="{...}" />
-                <marker date="1565030879956" expanded="true" signature="1814:2444" ph="/* Set canvas camera ... */" />
-                <marker date="1565030879956" expanded="true" signature="2715:3169" ph="{...}" />
-                <marker date="1565030879956" expanded="true" signature="2776:3159" ph="/* The image extents is only valid when the image is being tracked ... */" />
-                <marker date="1565030879956" expanded="true" signature="3182:3240" ph="{...}" />
-                <marker date="1565030879956" expanded="true" signature="3322:3876" ph="{...}" />
-                <marker date="1565030879956" expanded="true" signature="3382:3775" ph="{...}" />
-                <marker date="1565030879956" expanded="true" signature="3393:3600" ph="/* Vector3 vect = Vector3.up; ... */" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
@@ -186,15 +166,12 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ApplyForce.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@1.0.8/Rider/Editor/RiderInitializer.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Pooling.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameAction.cs" root0="FORCE_HIGHLIGHTING" />
-<<<<<<< HEAD
-    <setting file="file://$PROJECT_DIR$/Assets/Scenes/ImageTracking/TrackedImageInfoManager.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ApplyTorque.cs" root0="FORCE_HIGHLIGHTING" />
-=======
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DisableOnCount.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Triggers.cs" root0="FORCE_HIGHLIGHTING" />
->>>>>>> develop
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ide.vscode@1.0.7/Editor/VSCodeDiscovery.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/SimpleCoroutine.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Worker.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/SwipeInfoManager.cs" root0="FORCE_HIGHLIGHTING" />
@@ -227,14 +204,10 @@
         <option value="$PROJECT_DIR$/Assets/DisableOnCount.cs" />
         <option value="$PROJECT_DIR$/Assets/AnimStates.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/GameAction.cs" />
-<<<<<<< HEAD
-        <option value="$PROJECT_DIR$/Assets/Scenes/ImageTracking/TrackedImageInfoManager.cs" />
-=======
         <option value="$PROJECT_DIR$/Assets/Scripts/SwipeInfo.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/SwipeInfoManager.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ApplyTorque.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ApplyForce.cs" />
->>>>>>> develop
       </list>
     </option>
   </component>
@@ -246,18 +219,10 @@
       </list>
     </option>
   </component>
-<<<<<<< HEAD
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="44" />
-    <option name="y" value="23" />
-    <option name="width" value="1600" />
-    <option name="height" value="833" />
-=======
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="y" value="42" />
     <option name="width" value="1440" />
-    <option name="height" value="827" />
->>>>>>> develop
+    <option name="height" value="829" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -265,25 +230,15 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-<<<<<<< HEAD
-      <pane id="SolutionExplorer">
-        <option name="show-all-files" value="false" />
-      </pane>
-=======
-      <pane id="FileSystemExplorer" />
->>>>>>> develop
+      <pane id="AssemblyExplorer" />
       <pane id="UnityExplorer">
         <option name="show-hidden-items" value="false" />
         <option name="show-project-names" value="true" />
       </pane>
-      <pane id="AssemblyExplorer" />
-<<<<<<< HEAD
       <pane id="FileSystemExplorer" />
-=======
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
->>>>>>> develop
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -345,21 +300,14 @@
       <workItem from="1563212288326" duration="862000" />
       <workItem from="1563396762882" duration="3276000" />
       <workItem from="1563568032531" duration="3598000" />
-<<<<<<< HEAD
-      <workItem from="1565029463098" duration="2232000" />
-=======
       <workItem from="1564724797724" duration="23549000" />
-      <workItem from="1565020036265" duration="5449000" />
->>>>>>> develop
+      <workItem from="1565020036265" duration="7037000" />
+      <workItem from="1565104567525" duration="746000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-<<<<<<< HEAD
-    <option name="totallyTimeSpent" value="14744000" />
-=======
-    <option name="totallyTimeSpent" value="41510000" />
->>>>>>> develop
+    <option name="totallyTimeSpent" value="43844000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -371,16 +319,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-<<<<<<< HEAD
-    <frame x="0" y="23" width="1920" height="1006" extended-state="6" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.271875" />
-=======
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27968526" />
->>>>>>> develop
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2832618" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -568,10 +510,7 @@
     <entry file="file://$PROJECT_DIR$/Assets/EndAnim.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/DisableOnCount.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/AnimStates.cs" />
-<<<<<<< HEAD
-=======
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/SwipeInfo.cs" />
->>>>>>> develop
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Triggers.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -583,15 +522,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ide.vscode@1.0.7/Editor/VSCodeDiscovery.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ApplyTorque.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <marker date="1565028250724" expanded="false" signature="6:118" ph="..." />
+            <marker date="1565028250724" expanded="true" signature="198:557" ph="{...}" />
+            <marker date="1565028250724" expanded="true" signature="347:399" ph="{...}" />
+            <marker date="1565028250724" expanded="true" signature="438:480" ph="{...}" />
+            <marker date="1565028250724" expanded="true" signature="510:555" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/DisableOnCount.cs">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state relative-caret-position="630">
-          <caret line="49" column="23" selection-start-line="49" selection-start-column="23" selection-end-line="49" selection-end-column="23" />
-=======
-        <state relative-caret-position="-150">
+        <state relative-caret-position="135">
           <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
->>>>>>> develop
           <folding>
             <marker date="1563746224402" expanded="false" signature="6:78" ph="..." />
             <marker date="1563746224402" expanded="true" signature="123:404" ph="{...}" />
@@ -601,12 +556,6 @@
         </state>
       </provider>
     </entry>
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/DisableOnCount.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-=======
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/GameAction.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -645,74 +594,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ApplyTorque.cs">
+    <entry file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@1.0.8/Rider/Editor/RiderInitializer.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
->>>>>>> develop
+        <state relative-caret-position="540">
+          <caret line="40" column="12" selection-start-line="40" selection-start-column="12" selection-end-line="40" selection-end-column="12" />
           <folding>
-            <marker date="1565028250724" expanded="false" signature="6:118" ph="..." />
-            <marker date="1565028250724" expanded="true" signature="198:557" ph="{...}" />
-            <marker date="1565028250724" expanded="true" signature="347:399" ph="{...}" />
-            <marker date="1565028250724" expanded="true" signature="438:480" ph="{...}" />
-            <marker date="1565028250724" expanded="true" signature="510:555" ph="{...}" />
+            <marker date="1558544480000" expanded="true" signature="126:1665" ph="{...}" />
+            <marker date="1558544480000" expanded="true" signature="164:1663" ph="{...}" />
+            <marker date="1558544480000" expanded="true" signature="218:1657" ph="{...}" />
+            <marker date="1558544480000" expanded="true" signature="292:489" ph="{...}" />
+            <marker date="1558544480000" expanded="true" signature="899:1516" ph="{...}" />
+            <marker date="1558544480000" expanded="true" signature="1127:1239" ph="{...}" />
+            <marker date="1558544480000" expanded="true" signature="1254:1458" ph="{...}" />
+            <marker date="1558544480000" expanded="true" signature="1529:1649" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/ApplyForce.cs">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state relative-caret-position="105">
-          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
-=======
-        <state relative-caret-position="318">
-          <caret line="39" column="8" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="8" />
->>>>>>> develop
+        <state relative-caret-position="330">
+          <caret line="25" column="37" lean-forward="true" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
           <folding>
-            <marker date="1565029264189" expanded="false" signature="6:84" ph="..." />
-            <marker date="1565029264189" expanded="true" signature="163:2845" ph="{...}" />
-            <marker date="1565029264189" expanded="true" signature="705:811" ph="{...}" />
-            <marker date="1565029264189" expanded="true" signature="844:1040" ph="{...}" />
-            <marker date="1565029264189" expanded="true" signature="1069:1667" ph="{...}" />
-            <marker date="1565029264189" expanded="true" signature="1310:1605" ph="{...}" />
-            <marker date="1565029264189" expanded="true" signature="1353:1468" ph="{...}" />
-            <marker date="1565029264189" expanded="true" signature="1522:1595" ph="{...}" />
-            <marker date="1565029264189" expanded="true" signature="1693:1907" ph="{...}" />
-            <marker date="1565029264189" expanded="true" signature="1729:1892" ph="{...}" />
-            <marker date="1565029264189" expanded="true" signature="1940:2473" ph="{...}" />
-            <marker date="1565029264189" expanded="true" signature="2024:2072" ph="{...}" />
-            <marker date="1565029264189" expanded="true" signature="2085:2132" ph="{...}" />
-            <marker date="1565029264189" expanded="true" signature="2187:2237" ph="{...}" />
-            <marker date="1565029264189" expanded="true" signature="2250:2301" ph="{...}" />
-            <marker date="1565029264189" expanded="true" signature="2508:2843" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scenes/ImageTracking/TrackedImageInfoManager.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="75" column="8" selection-start-line="75" selection-start-column="8" selection-end-line="75" selection-end-column="8" />
-          <folding>
-            <marker date="1565030879956" expanded="true" signature="6:158" ph="..." />
-            <marker date="1565030879956" expanded="true" signature="160:360" ph="/// This component listens for images detected by the &lt;c&gt;XRImageTrackingSubsystem&lt;/c&gt; ... " />
-            <marker date="1565030879956" expanded="true" signature="463:3878" ph="{...}" />
-            <marker date="1565030879956" expanded="true" signature="627:761" ph="/// The prefab has a world space UI canvas, ... " />
-            <marker date="1565030879956" expanded="true" signature="802:913" ph="{...}" />
-            <marker date="1565030879956" expanded="true" signature="1080:1218" ph="/// If an image is detected but no source texture can be found, ... " />
-            <marker date="1565030879956" expanded="true" signature="1254:1349" ph="{...}" />
-            <marker date="1565030879956" expanded="true" signature="1417:1500" ph="{...}" />
-            <marker date="1565030879956" expanded="true" signature="1521:1611" ph="{...}" />
-            <marker date="1565030879956" expanded="true" signature="1633:1723" ph="{...}" />
-            <marker date="1565030879956" expanded="true" signature="1799:3246" ph="{...}" />
-            <marker date="1565030879956" expanded="true" signature="1814:2444" ph="/* Set canvas camera ... */" />
-            <marker date="1565030879956" expanded="true" signature="2715:3169" ph="{...}" />
-            <marker date="1565030879956" expanded="true" signature="2776:3159" ph="/* The image extents is only valid when the image is being tracked ... */" />
-            <marker date="1565030879956" expanded="true" signature="3182:3240" ph="{...}" />
-            <marker date="1565030879956" expanded="true" signature="3322:3876" ph="{...}" />
-            <marker date="1565030879956" expanded="true" signature="3382:3775" ph="{...}" />
-            <marker date="1565030879956" expanded="true" signature="3393:3600" ph="/* Vector3 vect = Vector3.up; ... */" />
+            <marker date="1565105034224" expanded="false" signature="6:84" ph="..." />
+            <marker date="1565105034224" expanded="true" signature="163:3006" ph="{...}" />
+            <marker date="1565105034224" expanded="true" signature="768:874" ph="{...}" />
+            <marker date="1565105034224" expanded="true" signature="907:1035" ph="{...}" />
+            <marker date="1565105034224" expanded="true" signature="1064:1795" ph="{...}" />
+            <marker date="1565105034224" expanded="true" signature="1102:1188" ph="/* StartShotTime = Time.time; ... */" />
+            <marker date="1565105034224" expanded="true" signature="1339:1700" ph="{...}" />
+            <marker date="1565105034224" expanded="true" signature="1351:1409" ph="/* if (ShotTime &lt; swipeTimeMax) ... */" />
+            <marker date="1565105034224" expanded="true" signature="1617:1690" ph="{...}" />
+            <marker date="1565105034224" expanded="true" signature="1821:2019" ph="{...}" />
+            <marker date="1565105034224" expanded="true" signature="1857:2004" ph="{...}" />
+            <marker date="1565105034224" expanded="true" signature="2052:2585" ph="{...}" />
+            <marker date="1565105034224" expanded="true" signature="2136:2184" ph="{...}" />
+            <marker date="1565105034224" expanded="true" signature="2197:2244" ph="{...}" />
+            <marker date="1565105034224" expanded="true" signature="2299:2349" ph="{...}" />
+            <marker date="1565105034224" expanded="true" signature="2362:2413" ph="{...}" />
+            <marker date="1565105034224" expanded="true" signature="2620:3004" ph="{...}" />
           </folding>
         </state>
       </provider>

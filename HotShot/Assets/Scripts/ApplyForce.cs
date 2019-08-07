@@ -10,7 +10,7 @@ public class ApplyForce : MonoBehaviour
     public UnityEvent OnEnd;
     public Transform StartPoint;
     private Rigidbody rigid;
-    public float force = .1f;
+    public float force;
     public Vector3 Forces;
     public float HoldTime = 3;
     private Coroutine cr;
@@ -34,9 +34,10 @@ public class ApplyForce : MonoBehaviour
 
     private void OnMouseDown()
     {
+        StartSwipePosition = Input.mousePosition;
         rigid.WakeUp();
         ballFollowFinger = true;
-        StartSwipePosition = Input.mousePosition;
+        
     }
     private void OnMouseUp()
     {
@@ -74,7 +75,7 @@ public class ApplyForce : MonoBehaviour
     {
         if (ballFollowFinger)
         {
-            rigid.position = Camera.main.ScreenToWorldPoint(new Vector3(Input.mousePosition.x,Input.mousePosition.y, -StartPoint.position.z));
+            rigid.position = Camera.main.ScreenToWorldPoint(new Vector3(Input.mousePosition.x,Input.mousePosition.y, 2.384f));
         }
         
     }
